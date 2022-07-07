@@ -54,7 +54,14 @@
 		return 0;
 	}
 ```
+```python
+	import os
 ```
+```bash
+	sudo apt-get install tree
 ```
-```
-```
+
+游戏名|游戏价格|游戏排行
+--|:--|--:
+王者荣耀|20000|1
+pug|4444|88
